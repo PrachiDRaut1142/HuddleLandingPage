@@ -3,7 +3,7 @@ Created a vibrant landing page with Huddle, showcasing community-building featur
 ## Steps to Run the Project:
 
 **Way 1: Using Visual Studio Code with Live Server**
-1. Clone the project repository `https://github.com/PrachiDRaut1142/HuddleLandingPage.git` 
+1. Clone the project repository `https://github.com/PrachiDRaut1142/HuddleLandingPage1.git` 
 2. Install the `Live Server extension` in Visual Studio Code.
 3. Open the `index.html` file.
 4. Right-click and select **Open With Live Server**.
